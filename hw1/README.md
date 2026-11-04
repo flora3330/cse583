@@ -1,0 +1,1 @@
+I used an AI assitant for help with changing the interpreter. At first my VS code kept telling me there's no 'pandas'. After changing that to miniconda3 it works. I also used AI to debug my code.

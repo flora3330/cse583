@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data file (do not upload)
+hw1/src/hw1_data_analysis/bicycle_data.csv
+
+# macOS junk
+.DS_Store
